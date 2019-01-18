@@ -30,11 +30,11 @@
     "copy-text-to-clipboard": "^1.0.4",
     "lodash": "^4.17.4",
     "natives": "^1.1.6",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
     "react-icons": "^2.2.5",
     "react-input-range": "^1.2.1",
-    "react-responsive": "^2.0.0",
+    "react-responsive": "^6.0.1",
     "styled-components": "^2.1.2",
     "sweetalert": "^2.1.2",
     "babel-core": "^6.26.0",
@@ -53,3 +53,5 @@
     "webpack-stream": "^4.0.0"
   }
 }
+
+
