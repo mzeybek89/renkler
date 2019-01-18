@@ -7,7 +7,7 @@
   "scripts": {
     "watch": "gulp watch",
     "buildWithGulp": "gulp build",
-    "build": "npm run --production buildWithGulp"
+    "start": "npm run --production buildWithGulp"
   },
   "repository": {
     "type": "git",
