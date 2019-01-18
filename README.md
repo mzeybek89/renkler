@@ -1,3 +1,3 @@
 # renkler
 
-Live on : [Heroku](https://renkler-mz.herokuapp.com/)
+Live on : [https://renkler-mz.herokuapp.com/](https://renkler-mz.herokuapp.com/)
